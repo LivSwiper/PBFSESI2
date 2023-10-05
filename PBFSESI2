@@ -1,0 +1,9 @@
+Const DataPribadi = {
+FirstName : "Muhamad Alif Alfariz",
+age : 19
+isMarried : "Belum Menikah"
+
+}
+console.log(`Nama : ${dataPribadi.firstName} ${dataPribadi}
+console.log(`Usia : ${dataPribadi.age}`)
+console.log(`${dataPribadi.isMarried}`)
